@@ -1,3 +1,10 @@
+fastAPI와 연동, 사용자는 면접 연습을 할 수 있습니다,
+먼저 사용자가 지원할 직군을 적고 질문 생성을 해주세요.
+그 다음 AI가 질문을 할겁니다, 그 질문에 답변을 적어주세요. 그러면
+AI가 답변에 대한 피드백을 해줄거에요.
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
