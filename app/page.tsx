@@ -37,7 +37,7 @@ export default function Home() {
       <div className="w-full max-w-xl mb-6 space-y-4">
         <input
           type="text"
-          placeholder="직무 입력 (예: 프론트엔드)"
+          placeholder="직무 입력 (예: 프론트엔드, 마케팅, 개발)"
           value={job}
           onChange={(e) => setJob(e.target.value)}
           className="w-full p-3 border border-gray-300 rounded shadow-sm focus:outline-none focus:ring-2 focus:ring-indigo-400"
